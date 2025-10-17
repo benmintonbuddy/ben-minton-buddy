@@ -12,3 +12,4 @@ When your Instagram or Facebook account is tagged in a post, Ben Minton Buddy au
 - **Replies automatically**: Comments or DMs the tagger with an explorer link and the on‑chain contract address.
 
 # benminton
+# ben-minton-buddy
