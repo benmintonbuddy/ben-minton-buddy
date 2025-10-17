@@ -2,6 +2,7 @@
 
 
 
+
 When your Instagram or Facebook account is tagged in a post, Ben Minton Buddy automatically creates a Pump.fun token on Solana, using the post/profile context to propose name and description, then replies back to the tagger with the Pump.fun link and the contract (mint) address.
 
 ### What it does
